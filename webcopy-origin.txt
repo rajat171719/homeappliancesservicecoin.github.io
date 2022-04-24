@@ -1,0 +1,656 @@
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:300%2C400%2C700%2C300italic%2C400italic%2C700italic|Roboto:300%2C400%2C700&subset=latin%2Clatin-ext
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\opensans\v28\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWV4exQ.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4uaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4uaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fChc9.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fChc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfChc9.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfChc9.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu7GxP.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\s\roboto\v29\KFOmCnqEu92Fr1Mu7GxP.ttf
+Content Type: font/ttf
+
+Uri: http://www.24x7customerscare.online/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/author/admin/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/author/admin/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/category/uncategorized/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/category/uncategorized/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/comments/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/contact-us/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\contact-us\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/home/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\home\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/services/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\services\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/uncategorized/air-conditioner-repair/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\air-conditioner-repair\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/uncategorized/air-conditioner-repair/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\air-conditioner-repair\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/uncategorized/microwave-repair/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\microwave-repair\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/uncategorized/microwave-repair/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\microwave-repair\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/uncategorized/refrigerator-repair/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\refrigerator-repair\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/uncategorized/refrigerator-repair/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\refrigerator-repair\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/uncategorized/washing-machine-repair/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\washing-machine-repair\index.htm
+Content Type: text/html
+
+Uri: http://www.24x7customerscare.online/uncategorized/washing-machine-repair/feed/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\uncategorized\washing-machine-repair\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQXjM.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVQUwaEQXjM.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4iaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4saVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4taVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4uaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/open-sans/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQXjN_mQ.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\open-sans\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4vaVQUwaEQXjN_mQ.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu72xMKTU1Kvnz.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu72xMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\fonts\roboto\KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/siteorigin-panels/css/front-flex.min.css?ver=2.16.4
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\siteorigin-panels\css\front-flex.min.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/siteorigin-panels/js/styling.min.js?ver=2.16.4
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\siteorigin-panels\js\styling.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/so-widgets-bundle/widgets/button/css/style.css?ver=1.30.1
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\so-widgets-bundle\widgets\button\css\style.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/so-widgets-bundle/widgets/contact/js/contact.min.js?ver=1.30.1
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\so-widgets-bundle\widgets\contact\js\contact.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/animate.css?ver=3.5.1
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\animate.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/colorbox.css?ver=1.5.14
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\colorbox.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/grabbing.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\grabbing.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/border.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\border.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/controls.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\controls.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/homepage-banner-bg3.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\homepage-banner-bg3.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/loading.gif
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\loading.gif
+Content Type: image/gif
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/loading_background.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\loading_background.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/overlay.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\overlay.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/vig-24.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\vig-24.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/images/vig-32.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\images\vig-32.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/owl.carousel.css?ver=2.2.1
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/owl.transitions.css?ver=1.3.2
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\owl.transitions.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/css/tx-style.css?ver=1.01
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\css\tx-style.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/js/jquery.colorbox-min.js?ver=1.5.14
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\js\jquery.colorbox-min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/js/jquery.inview.min.js?ver=1.0.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\js\jquery.inview.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/js/owl.carousel.min.js?ver=1.3.2
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/plugins/templatesnext-toolkit/js/tx-script.js?ver=2013-07-18
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\plugins\templatesnext-toolkit\js\tx-script.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/css/extra-style.css?ver=2016-03-11
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\css\extra-style.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/css/jquery.sidr.dark.css?ver=2014-01-12
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\css\jquery.sidr.dark.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/css/owl.theme.css?ver=2.2.1
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\css\owl.theme.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/css/twocol-blog.css?ver=2015-03-11
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\css\twocol-blog.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/fonts/genericons-regular-webfont.eot
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\fonts\genericons-regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/fonts/genericons-regular-webfont.svg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\fonts\genericons-regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/fonts/genericons-regular-webfont.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\fonts\genericons-regular-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/fonts/genericons.css?ver=2.09
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\fonts\genericons.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/images/default-bg.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\images\default-bg.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/images/dotted-line.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\images\dotted-line.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/images/homepage-banner-bg3.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\images\homepage-banner-bg3.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/images/nxs-design-18-overlay.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\images\nxs-design-18-overlay.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/images/vignette.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\images\vignette.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/css/wprmenu.css?ver=1.01
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\css\wprmenu.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.eot
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.eot?
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.svg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.svg
+Content Type: image/svg+xml
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.ttf
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.ttf
+Content Type: font/ttf
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/fonts/wprmenu.woff
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\fonts\wprmenu.woff
+Content Type: font/woff
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/js/jquery.sidr.js?ver=2017-03-16
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\js\jquery.sidr.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/js/jquery.transit.min.js?ver=2017-03-16
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\js\jquery.transit.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/inc/responsive-menu/js/wprmenu.js?ver=2017-03-16
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\inc\responsive-menu\js\wprmenu.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/js/functions.js?ver=2018-06-03
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\js\functions.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/js/jquery.sidr.min.js?ver=2014-01-13
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\js\jquery.sidr.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/js/waypoints.min.js?ver=2014-01-13
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\js\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-content/themes/i-excel/style.css?ver=2018-06-03
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\themes\i-excel\style.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/31-300x169.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\31-300x169.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/31.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\31.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/7-300x200.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\7-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/7-768x511.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\7-768x511.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/7.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/about-300x226.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\about-300x226.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/about.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\about.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/cropped-logo-180x180.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\cropped-logo-180x180.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/cropped-logo-192x192.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\cropped-logo-192x192.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/cropped-logo-32x32.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\cropped-logo-32x32.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/Glry1-1024x608.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\Glry1-1024x608.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/Glry1-1536x912.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\Glry1-1536x912.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/Glry1-300x178.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\Glry1-300x178.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/Glry1-768x456.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\Glry1-768x456.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/Glry1.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\Glry1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/logo-1.png
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\logo-1.png
+Content Type: image/png
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/slider01.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\slider01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/slider02.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\slider02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/tabimg10-300x175.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\tabimg10-300x175.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/tabimg10.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\tabimg10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/tabimg9-300x175.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\tabimg9-300x175.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/02/tabimg9.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\02\tabimg9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/03/bathroom-1500x800.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\03\bathroom-1500x800.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/03/dishwasher6666-300x150.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\03\dishwasher6666-300x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/03/dishwasher6666.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\03\dishwasher6666.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/03/fridge1-300x214.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\03\fridge1-300x214.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/03/fridge1.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\03\fridge1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/03/tabimg4-300x175.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\03\tabimg4-300x175.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/2022/03/tabimg4.jpg
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\2022\03\tabimg4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/siteorigin-widgets/sow-button-wire-ccf4b7df583c-1939.css?ver=5.9.3
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\siteorigin-widgets\sow-button-wire-ccf4b7df583c-1939.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/siteorigin-widgets/sow-contact-form-default-38de2b806c23-132.css?ver=5.9.3
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\siteorigin-widgets\sow-contact-form-default-38de2b806c23-132.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-content/uploads/siteorigin-widgets/sow-image-default-d6014b76747a-1939.css?ver=5.9.3
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-content\uploads\siteorigin-widgets\sow-image-default-d6014b76747a-1939.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-includes/css/dist/block-library/style.min.css?ver=5.9.3
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/comment-reply.min.js?ver=5.9.3
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\jquery\jquery.masonry.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: http://www.24x7customerscare.online/wp-includes/wlwmanifest.xml
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://www.24x7customerscare.online/wp-json/
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Fcontact-us%2F
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Fcontact-us%2F&format=xml
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Fservices%2F
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Fservices%2F&format=xml
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Fair-conditioner-repair%2F
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Fair-conditioner-repair%2F&format=xml
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Fmicrowave-repair%2F
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Fmicrowave-repair%2F&format=xml
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Frefrigerator-repair%2F
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Frefrigerator-repair%2F&format=xml
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Fwashing-machine-repair%2F
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.24x7customerscare.online%2Funcategorized%2Fwashing-machine-repair%2F&format=xml
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/categories/1
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/pages/132
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\pages\132
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/pages/1939
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\pages\1939
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/posts/2219
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\posts\2219
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/posts/2222
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\posts\2222
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/posts/2224
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\posts\2224
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/posts/2229
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\posts\2229
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/wp-json/wp/v2/users/1
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://www.24x7customerscare.online/xmlrpc.php?rsd
+File Name: D:\shop\mama\website6\www.24x7customerscare.online\xmlrpc.php
+Content Type: text/xml
+
